@@ -18,4 +18,4 @@ com separação de responsabilidades entre rotas e serviços.
 ## Como executar
 ```bash
 npm install
-npm run dev
+npm run start
